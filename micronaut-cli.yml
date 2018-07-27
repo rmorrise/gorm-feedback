@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: gorm.feedback
+---
+testFramework: spock
+sourceLanguage: groovy
